@@ -1,1 +1,1 @@
-Contains code for the Capital One MindSumo challenges.
+https://www.mindsumo.com/contests/meerkat-api
